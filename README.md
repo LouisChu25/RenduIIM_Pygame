@@ -7,7 +7,7 @@ Ce jeu est un Snake légèrement revisité.
 ###Jeu : SnakeBomb
 
 Pour lancer le jeu, assurez-vous d'avoir python installé.
-Si vous ne l'avez pas encore fait, installez pygame avec la commande : pip install pygame
+Si vous ne l'avez pas encore fait, installez pygame avec la commande : pip install pygame.
 Vous pourrez ensuite lancer le jeu avec la commande : python pygame-3.py
 
 ##Règles
