@@ -56,3 +56,7 @@ class Jeu:
         start_pos = (int(35 * 20 / 2), 40)
         start_rect = start_surface.get_rect(center = start_pos)
         ecran.blit(start_surface, start_rect)
+        start_surface = font.render("Read the rules in the README", True, (56,74,12))
+        start_pos = (int(35 * 20 / 2), 15)
+        start_rect = start_surface.get_rect(center = start_pos)
+        ecran.blit(start_surface, start_rect)
